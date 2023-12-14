@@ -1,0 +1,30 @@
+{
+  "user": [
+    {
+      "firstName": "Kartik",
+      "lastName": "Chhabraa",
+      "emailId": "csecec.197019@gmail.com",
+      "mobileNo": "1478523677",
+      "country": "india",
+      "address1": "xyz india",
+      "address2": "optional",
+      "state": "PUNJAB",
+      "city": "chandigarh",
+      "zipcode": "147852",
+      "id": 1
+    },
+    {
+      "firstName": "TESTED",
+      "lastName": "COMPLETED",
+      "emailId": "TESTED@TESTED.com",
+      "mobileNo": "1452366541",
+      "country": "TESTED",
+      "address1": "TESTED",
+      "address2": "",
+      "state": "TESTED",
+      "city": "TESTED",
+      "zipcode": "123321",
+      "id": 2
+    }
+  ]
+}
